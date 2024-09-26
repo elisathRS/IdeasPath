@@ -1,6 +1,6 @@
 # WEB103 Project 1 - *IdeasPath*
 
-Submitted by: **Mary **
+Submitted by: **Mary Ramirez**
 
 About this web app: **No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche? We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers? We have a short guide for each one of those. Our guides are sorted into different categories (including business models, product development, sales, market research, and funding) so you can browse or filter to personalize your experience.**
 
@@ -36,7 +36,7 @@ Here's a walkthrough of implemented required features:
 <img src='video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
